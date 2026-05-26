@@ -15,17 +15,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=900&color=00A747&center=true&vCenter=true&width=900&lines=I'm+from+Brazil;I'm+a+programming+student+and+a+developer+at+the+beginning+of+my+career;and+also+a+video+editor.;Welcome!" alt="Typing SVG" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CristinyON&theme=github_dark" width="32%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CristinyON&theme=github_dark" width="32%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CristinyON&theme=github_dark&utcOffset=8" width="32%" />
 
-</div>
+</div> -->
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CristinyON&theme=github_dark" width="56%" />
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CristinyON&theme=github_dark" width="56%" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=CristinyON&theme=github-dark&hide_border=true&border_radius=7" width="40%" />
 
 </div>
